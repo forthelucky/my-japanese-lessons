@@ -1,4 +1,4 @@
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第2章
+# ⚔️ 戦国時代 第2章
 
 ## 時代を<ruby>変<rt>か</rt></ruby>えた<ruby>革新家<rt>かくしんか</rt></ruby>、<ruby>織田信長<rt>おだのぶなが</rt></ruby>
 

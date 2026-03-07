@@ -1,4 +1,4 @@
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第3章
+# ⚔️ 戦国時代 第3章
 
 ## <ruby>鉄砲<rt>てっぽう</rt></ruby>と<ruby>城郭<rt>じょうかく</rt></ruby>の<ruby>進化<rt>しんか</rt></ruby>
 

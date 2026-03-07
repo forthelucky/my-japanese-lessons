@@ -1,4 +1,4 @@
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第9章
+# ⚔️ 戦国時代 第9章
 
 ## <ruby>文化<rt>ぶんか</rt></ruby>と<ruby>芸術<rt>げいじゅつ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>、<ruby>茶道<rt>さどう</rt></ruby>とかぶき
 

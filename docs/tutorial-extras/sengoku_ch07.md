@@ -1,4 +1,4 @@
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第7章
+# ⚔️ 戦国時代 第7章
 
 ## <ruby>忍耐<rt>にんたい</rt></ruby>の<ruby>果<rt>は</rt></ruby>てに<ruby>勝利<rt>しょうり</rt></ruby>する、<ruby>徳川家康<rt>とくがわいえやす</rt></ruby>
 

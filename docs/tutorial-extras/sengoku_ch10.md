@@ -1,4 +1,4 @@
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第10章
+# ⚔️ 戦国時代 第10章
 
 ## <ruby>江戸幕府<rt>えどばくふ</rt></ruby>の<ruby>開幕<rt>かいまく</rt></ruby>と<ruby>平和<rt>へいわ</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり
 

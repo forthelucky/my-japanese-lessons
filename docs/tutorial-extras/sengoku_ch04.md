@@ -1,4 +1,4 @@
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第4章
+# ⚔️ 戦国時代 第4章
 
 ## <ruby>忍者<rt>にんじゃ</rt></ruby>と<ruby>侍<rt>さむらい</rt></ruby>、その<ruby>実体<rt>じったい</rt></ruby>と<ruby>虚構<rt>きょこう</rt></ruby>
 
