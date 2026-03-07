@@ -1,4 +1,4 @@
-# 🇯🇵 戦後日本 第4章
+# 戦後日本 第4章
 
 ## <ruby>昭和<rt>しょうわ</rt></ruby>レトロ<ruby>文化<rt>ぶんか</rt></ruby> ― <ruby>家電<rt>かでん</rt></ruby><ruby>革命<rt>かくめい</rt></ruby>の時代
 

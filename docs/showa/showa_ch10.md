@@ -1,4 +1,4 @@
-# 🇯🇵 戦後日本 第10章
+# 戦後日本 第10章
 
 ## バブル<ruby>崩壊<rt>ほうかい</rt></ruby>と90年代 ― <ruby>華<rt>はな</rt></ruby>やかな時代の<ruby>終<rt>お</rt></ruby>わりと<ruby>新<rt>あたら</rt></ruby>しい<ruby>悩<rt>なや</rt></ruby>みの<ruby>始<rt>はじ</rt></ruby>まり
 

@@ -1,4 +1,4 @@
-# 🇯🇵 戦後日本 第8章
+# 戦後日本 第8章
 
 ## バブル<ruby>経済<rt>けいざい</rt></ruby>の<ruby>頂点<rt>ちょうてん</rt></ruby> ― <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>土地<rt>とち</rt></ruby>でアメリカが<ruby>買<rt>か</rt></ruby>える？
 
