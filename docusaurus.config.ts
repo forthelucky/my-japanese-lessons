@@ -70,6 +70,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    docs: {
+    sidebar: {
+      hideable: true,
+    },
+  },
+
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
