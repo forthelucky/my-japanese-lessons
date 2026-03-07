@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第8章
+# 📚 ノルウェイの森
 
 ## <ruby>現代人<rt>げんだいじん</rt></ruby>の<ruby>喪失感<rt>そうしつかん</rt></ruby>、<ruby>村上春樹<rt>むらかみはるき</rt></ruby>の『ノルウェイの<ruby>森<rt>もり</rt></ruby>』
 

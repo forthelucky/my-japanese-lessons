@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第3章
+# 📚 雨ニモマケズ
 
 ## <ruby>災害<rt>さいがい</rt></ruby>の中の<ruby>慰<rt>なぐさ</rt></ruby>め、<ruby>宮沢賢治<rt>みやざわけんじ</rt></ruby>の<ruby>詩<rt>し</rt></ruby>『<ruby>雨<rt>あめ</rt></ruby>ニモマケズ』
 

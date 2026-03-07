@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第1章
+# 📚 こころ
 
 ## 日本人の<ruby>必読書<rt>ひつどくしょ</rt></ruby>、<ruby>夏目漱石<rt>なつめそうせき</rt></ruby>の『<ruby>こころ<rt></rt></ruby>』
 

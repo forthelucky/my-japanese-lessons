@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第5章
+# 📚 雪国
 
 ## 日本<ruby>美学<rt>びがく</rt></ruby>の<ruby>精髄<rt>せいずい</rt></ruby>、<ruby>川端康成<rt>かわばたやすなり</rt></ruby>の『<ruby>雪国<rt>ゆきぐに</rt></ruby>』
 

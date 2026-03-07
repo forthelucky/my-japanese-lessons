@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第10章
+# 📚 ごんぎつね
 
 ## <ruby>涙<rt>なみだ</rt></ruby>で<ruby>記憶<rt>きおく</rt></ruby>される<ruby>童心<rt>どうしん</rt></ruby>、<ruby>新美南吉<rt>にいみなんきち</rt></ruby>の『ごんぎつね』
 

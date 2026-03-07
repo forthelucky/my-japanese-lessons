@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第6章
+# 📚 舞姫
 
 ## <ruby>知識人<rt>ちしきじん</rt></ruby>の<ruby>苦悩<rt>くのう</rt></ruby>と<ruby>選択<rt>せんたく</rt></ruby>、<ruby>森鷗外<rt>もりおうがい</rt></ruby>の『<ruby>舞姫<rt>まいひめ</rt></ruby>』
 

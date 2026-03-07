@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第4章
+# 📚 蜘蛛の糸
 
 ## <ruby>利己心<rt>りこしん</rt></ruby>と<ruby>救済<rt>きゅうさい</rt></ruby>、<ruby>芥川龍之介<rt>あくたがわりゅうのすけ</rt></ruby>の『<ruby>蜘蛛<rt>くも</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>』
 

@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第7章
+# 📚 山月記
 
 ## <ruby>自我<rt>じが</rt></ruby>という名の<ruby>怪物<rt>かいぶつ</rt></ruby>、<ruby>中島敦<rt>なかじまあつし</rt></ruby>の『<ruby>山月記<rt>さんげつき</rt></ruby>』
 

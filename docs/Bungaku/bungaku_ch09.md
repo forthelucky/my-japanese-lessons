@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第9章
+# 📚 枕草子
 
 ## <ruby>千年前<rt>せんねんまえ</rt></ruby>の<ruby>洗練<rt>せんれん</rt></ruby>、<ruby>清少納言<rt>せいしょうなごん</rt></ruby>の『<ruby>枕草子<rt>まくらのそうし</rt></ruby>』
 

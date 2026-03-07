@@ -1,4 +1,4 @@
-# 📚 日本<ruby>文学<rt>ぶんがく</rt></ruby> 第2章
+# 📚 走れメロス
 
 ## <ruby>友情<rt>ゆうじょう</rt></ruby>と<ruby>信頼<rt>しんらい</rt></ruby>の<ruby>教科書<rt>きょうかしょ</rt></ruby>、<ruby>太宰治<rt>だざいおさむ</rt></ruby>の『<ruby>走<rt>はし</rt></ruby>れメロス』
 
