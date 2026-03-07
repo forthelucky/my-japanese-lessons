@@ -1,4 +1,4 @@
-# 🐢 浦島太郎
+# 🐢浦島太郎
 
 > **レベル：N2〜N3** ｜ テーマ：日本の<ruby>伝説<rt>でんせつ</rt></ruby>・<ruby>昔話<rt>むかしばなし</rt></ruby>
 
@@ -53,53 +53,37 @@
 
 #### 一、<ruby>亀<rt>かめ</rt></ruby>を<ruby>助けた<rt>たすけた</rt></ruby><ruby>若者<rt>わかもの</rt></ruby>
 
-　むかしむかし、ある<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>村<rt>むら</rt></ruby>に、<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>という<ruby>心<rt>こころ</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しい<ruby>若<rt>わか</rt></ruby>い<ruby>漁師<rt>りょうし</rt></ruby>が<ruby>暮<rt>く</rt></ruby>らしていました。<ruby>太郎<rt>たろう</rt></ruby>は毎日<ruby>海<rt>うみ</rt></ruby>に出て<ruby>魚<rt>さかな</rt></ruby>を<ruby>釣<rt>つ</rt></ruby>り、年を取ったお<ruby>母<rt>かあ</rt></ruby>さんと二人で<ruby>静<rt>しず</rt></ruby>かに<ruby>暮<rt>く</rt></ruby>らしていました。<ruby>村<rt>むら</rt></ruby>の人たちは<ruby>太郎<rt>たろう</rt></ruby>のことを「<ruby>正直<rt>しょうじき</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>き者の<ruby>若者<rt>わかもの</rt></ruby>だ」と言って、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>太郎<rt>たろう</rt></ruby>のことを<ruby>好<rt>す</rt></ruby>きでした。
+　むかしむかし、ある<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>村<rt>むら</rt></ruby>に、<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>という<ruby>心<rt>こころ</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しい<ruby>若<rt>わか</rt></ruby>い<ruby>漁師<rt>りょうし</rt></ruby>が<ruby>暮<rt>く</rt></ruby>らしていました。
 
-　ある日のことです。<ruby>太郎<rt>たろう</rt></ruby>が<ruby>浜辺<rt>はまべ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていると、子どもたちが何かを<ruby>囲<rt>かこ</rt></ruby>んで<ruby>騒<rt>さわ</rt></ruby>いでいるのが見えました。<ruby>近<rt>ちか</rt></ruby>づいてみると、子どもたちは一<ruby>匹<rt>ぴき</rt></ruby>の小さな<ruby>亀<rt>かめ</rt></ruby>をいじめていたのです。<ruby>棒<rt>ぼう</rt></ruby>でつついたり、<ruby>裏返<rt>うらがえ</rt></ruby>しにしたりして、かわいそうな<ruby>亀<rt>かめ</rt></ruby>は<ruby>手足<rt>てあし</rt></ruby>を<ruby>必死<rt>ひっし</rt></ruby>に<ruby>動<rt>うご</rt></ruby>かしていました。
-
-　<ruby>太郎<rt>たろう</rt></ruby>は「<ruby>亀<rt>かめ</rt></ruby>がかわいそうじゃないか。いじめるのはやめなさい」と子どもたちを<ruby>叱<rt>しか</rt></ruby>りました。しかし、子どもたちは「だって<ruby>面白<rt>おもしろ</rt></ruby>いんだもん」と言って、なかなかやめようとしません。そこで<ruby>太郎<rt>たろう</rt></ruby>は自分のお金を出して、「この<ruby>亀<rt>かめ</rt></ruby>を<ruby>私<rt>わたし</rt></ruby>に<ruby>売<rt>う</rt></ruby>ってくれないか」と子どもたちに<ruby>頼<rt>たの</rt></ruby>みました。子どもたちはお金をもらうと<ruby>喜<rt>よろこ</rt></ruby>んで<ruby>亀<rt>かめ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>し、<ruby>走<rt>はし</rt></ruby>って行ってしまいました。
-
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>亀<rt>かめ</rt></ruby>を<ruby>優<rt>やさ</rt></ruby>しく<ruby>抱<rt>だ</rt></ruby>き上げ、「もう大<ruby>丈夫<rt>じょうぶ</rt></ruby>だよ。<ruby>海<rt>うみ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りなさい」と言って、そっと<ruby>海<rt>うみ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>してあげました。<ruby>亀<rt>かめ</rt></ruby>は何度も何度も<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りながら、<ruby>海<rt>うみ</rt></ruby>の中へ<ruby>消<rt>き</rt></ruby>えていきました。
+　ある日、<ruby>太郎<rt>たろう</rt></ruby>が<ruby>浜辺<rt>はまべ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていると、子どもたちが一<ruby>匹<rt>ぴき</rt></ruby>の小さな<ruby>亀<rt>かめ</rt></ruby>をいじめていました。<ruby>太郎<rt>たろう</rt></ruby>は「かわいそうだからやめなさい」と言い、自分のお金を<ruby>渡<rt>わた</rt></ruby>して<ruby>亀<rt>かめ</rt></ruby>を<ruby>買<rt>か</rt></ruby>い<ruby>取<rt>と</rt></ruby>りました。そして<ruby>亀<rt>かめ</rt></ruby>を<ruby>優<rt>やさ</rt></ruby>しく<ruby>海<rt>うみ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>してあげました。<ruby>亀<rt>かめ</rt></ruby>は何度も<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りながら、<ruby>海<rt>うみ</rt></ruby>の中へ<ruby>消<rt>き</rt></ruby>えていきました。
 
 #### 二、<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>への<ruby>招待<rt>しょうたい</rt></ruby>
 
-　それから<ruby>数日<rt>すうじつ</rt></ruby>が<ruby>経<rt>た</rt></ruby>ったころ、<ruby>太郎<rt>たろう</rt></ruby>がいつものように<ruby>海<rt>うみ</rt></ruby>で<ruby>釣<rt>つ</rt></ruby>りをしていると、<ruby>海<rt>うみ</rt></ruby>の中から大きな<ruby>亀<rt>かめ</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れました。<ruby>亀<rt>かめ</rt></ruby>は「<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>さん、先日は子<ruby>亀<rt>がめ</rt></ruby>を<ruby>助けて<rt>たすけて</rt></ruby>いただき、ありがとうございました。あの子<ruby>亀<rt>がめ</rt></ruby>は<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>の<ruby>乙姫様<rt>おとひめさま</rt></ruby>の<ruby>使<rt>つか</rt></ruby>いでございます。<ruby>恩返し<rt>おんがえし</rt></ruby>に、<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>にご<ruby>招待<rt>しょうたい</rt></ruby>したいのですが」と言いました。
+　<ruby>数日<rt>すうじつ</rt></ruby>後、<ruby>太郎<rt>たろう</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>で<ruby>釣<rt>つ</rt></ruby>りをしていると、大きな<ruby>亀<rt>かめ</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れました。「先日は子<ruby>亀<rt>がめ</rt></ruby>を<ruby>助けて<rt>たすけて</rt></ruby>いただき、ありがとうございました。<ruby>恩返し<rt>おんがえし</rt></ruby>に、<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>にある<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>にご<ruby>招待<rt>しょうたい</rt></ruby>したいのです。」<ruby>太郎<rt>たろう</rt></ruby>が<ruby>亀<rt>かめ</rt></ruby>の<ruby>背中<rt>せなか</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ると、<ruby>亀<rt>かめ</rt></ruby>はゆっくりと<ruby>海<rt>うみ</rt></ruby>の中に<ruby>潜<rt>もぐ</rt></ruby>っていきました。
 
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>驚<rt>おどろ</rt></ruby>きましたが、<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>にある<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>への<ruby>招待<rt>しょうたい</rt></ruby>に<ruby>胸<rt>むね</rt></ruby>が<ruby>躍<rt>おど</rt></ruby>りました。「ぜひ行ってみたい」と<ruby>答<rt>こた</rt></ruby>えると、<ruby>亀<rt>かめ</rt></ruby>は「では、私の<ruby>背中<rt>せなか</rt></ruby>にお<ruby>乗<rt>の</rt></ruby>りください」と言いました。<ruby>太郎<rt>たろう</rt></ruby>が<ruby>亀<rt>かめ</rt></ruby>の<ruby>背中<rt>せなか</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ると、<ruby>亀<rt>かめ</rt></ruby>はゆっくりと<ruby>海<rt>うみ</rt></ruby>の中に<ruby>潜<rt>もぐ</rt></ruby>っていきました。
-
-　<ruby>海<rt>うみ</rt></ruby>の中は<ruby>太郎<rt>たろう</rt></ruby>が<ruby>想像<rt>そうぞう</rt></ruby>していたよりもはるかに<ruby>美<rt>うつく</rt></ruby>しい世界でした。<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>魚<rt>さかな</rt></ruby>たちが<ruby>泳<rt>およ</rt></ruby>ぎ、<ruby>珊瑚<rt>さんご</rt></ruby>が<ruby>宝石<rt>ほうせき</rt></ruby>のように<ruby>光<rt>ひか</rt></ruby>り、<ruby>海藻<rt>かいそう</rt></ruby>が風に<ruby>揺<rt>ゆ</rt></ruby>れるようにゆらゆらと<ruby>動<rt>うご</rt></ruby>いていました。しばらく<ruby>進<rt>すす</rt></ruby>むと、目の前に<ruby>壮大<rt>そうだい</rt></ruby>な<ruby>宮殿<rt>きゅうでん</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れました。それが<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>でした。
+　<ruby>海<rt>うみ</rt></ruby>の中は<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>魚<rt>さかな</rt></ruby>が<ruby>泳<rt>およ</rt></ruby>ぎ、<ruby>珊瑚<rt>さんご</rt></ruby>が<ruby>宝石<rt>ほうせき</rt></ruby>のように<ruby>光<rt>ひか</rt></ruby>る、<ruby>美<rt>うつく</rt></ruby>しい世界でした。やがて目の前に<ruby>壮大<rt>そうだい</rt></ruby>な<ruby>宮殿<rt>きゅうでん</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れました。それが<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>でした。
 
 #### 三、<ruby>夢<rt>ゆめ</rt></ruby>のような日々
 
-　<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>の<ruby>門<rt>もん</rt></ruby>の前には、<ruby>美<rt>うつく</rt></ruby>しい<ruby>乙姫様<rt>おとひめさま</rt></ruby>が<ruby>大<rt>おお</rt></ruby>勢の<ruby>魚<rt>さかな</rt></ruby>たちと一<ruby>緒<rt>しょ</rt></ruby>に<ruby>太郎<rt>たろう</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っていました。<ruby>乙姫様<rt>おとひめさま</rt></ruby>は「<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>様、子<ruby>亀<rt>がめ</rt></ruby>を<ruby>助けて<rt>たすけて</rt></ruby>いただき、本当にありがとうございました。<ruby>恩返し<rt>おんがえし</rt></ruby>に、どうぞゆっくりとおくつろぎください」と<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>歓迎<rt>かんげい</rt></ruby>してくれました。
+　<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>では、<ruby>美<rt>うつく</rt></ruby>しい<ruby>乙姫様<rt>おとひめさま</rt></ruby>が<ruby>太郎<rt>たろう</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>かく<ruby>歓迎<rt>かんげい</rt></ruby>してくれました。毎日<ruby>豪華<rt>ごうか</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>が<ruby>並<rt>なら</rt></ruby>び、<ruby>鯛<rt>たい</rt></ruby>や<ruby>平目<rt>ひらめ</rt></ruby>たちが<ruby>美<rt>うつく</rt></ruby>しい<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せてくれました。<ruby>宮殿<rt>きゅうでん</rt></ruby>には<ruby>春<rt>はる</rt></ruby>・<ruby>夏<rt>なつ</rt></ruby>・<ruby>秋<rt>あき</rt></ruby>・<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>があり、<ruby>四季<rt>しき</rt></ruby>のすべてを一度に<ruby>楽<rt>たの</rt></ruby>しむことができました。
 
-　<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>は、<ruby>夢<rt>ゆめ</rt></ruby>のようでした。毎日<ruby>豪華<rt>ごうか</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>が<ruby>並<rt>なら</rt></ruby>び、<ruby>鯛<rt>たい</rt></ruby>や<ruby>平目<rt>ひらめ</rt></ruby>たちが<ruby>美<rt>うつく</rt></ruby>しい<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せてくれました。<ruby>春<rt>はる</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に行くと<ruby>桜<rt>さくら</rt></ruby>が<ruby>満開<rt>まんかい</rt></ruby>で、<ruby>夏<rt>なつ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に行くと<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>き、<ruby>秋<rt>あき</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>では<ruby>紅葉<rt>もみじ</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しく<ruby>色<rt>いろ</rt></ruby>づき、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>では<ruby>静<rt>しず</rt></ruby>かに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていました。一つの<ruby>宮殿<rt>きゅうでん</rt></ruby>の中で、<ruby>四季<rt>しき</rt></ruby>のすべてを<ruby>楽<rt>たの</rt></ruby>しむことができたのです。
-
-　<ruby>太郎<rt>たろう</rt></ruby>は毎日が<ruby>楽<rt>たの</rt></ruby>しくて、あっという間に時間が<ruby>過<rt>す</rt></ruby>ぎていきました。<ruby>乙姫様<rt>おとひめさま</rt></ruby>は<ruby>太郎<rt>たろう</rt></ruby>にいつも<ruby>優<rt>やさ</rt></ruby>しく、二人は<ruby>楽<rt>たの</rt></ruby>しい日々を<ruby>過<rt>す</rt></ruby>ごしていました。しかし、ある日ふと、<ruby>太郎<rt>たろう</rt></ruby>は<ruby>故郷<rt>こきょう</rt></ruby>のことを思い出しました。「お<ruby>母<rt>かあ</rt></ruby>さんは元気だろうか。一人で<ruby>寂<rt>さび</rt></ruby>しくしていないだろうか。」<ruby>懐かしい<rt>なつかしい</rt></ruby><ruby>村<rt>むら</rt></ruby>の<ruby>風景<rt>ふうけい</rt></ruby>や、お<ruby>母<rt>かあ</rt></ruby>さんの<ruby>笑顔<rt>えがお</rt></ruby>が<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れなくなりました。
+　しかし、ある日ふと、<ruby>太郎<rt>たろう</rt></ruby>は<ruby>故郷<rt>こきょう</rt></ruby>のことを思い出しました。「お<ruby>母<rt>かあ</rt></ruby>さんは元気だろうか。」<ruby>懐かしい<rt>なつかしい</rt></ruby><ruby>村<rt>むら</rt></ruby>の<ruby>風景<rt>ふうけい</rt></ruby>が<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れなくなり、<ruby>太郎<rt>たろう</rt></ruby>は<ruby>村<rt>むら</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>る<ruby>決心<rt>けっしん</rt></ruby>をしました。
 
 #### 四、<ruby>玉手箱<rt>たまてばこ</rt></ruby>と<ruby>約束<rt>やくそく</rt></ruby>
 
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>乙姫様<rt>おとひめさま</rt></ruby>のところへ行き、「<ruby>乙姫様<rt>おとひめさま</rt></ruby>、<ruby>長<rt>なが</rt></ruby>い間お世話になりました。しかし、<ruby>故郷<rt>こきょう</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>してきた<ruby>母<rt>はは</rt></ruby>のことが<ruby>心配<rt>しんぱい</rt></ruby>です。そろそろ<ruby>村<rt>むら</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りたいのです」と<ruby>伝<rt>つた</rt></ruby>えました。<ruby>乙姫様<rt>おとひめさま</rt></ruby>はとても<ruby>悲<rt>かな</rt></ruby>しそうな<ruby>顔<rt>かお</rt></ruby>をしましたが、<ruby>太郎<rt>たろう</rt></ruby>の気<ruby>持<rt>も</rt></ruby>ちを<ruby>理解<rt>りかい</rt></ruby>してくれました。
-
-　「<ruby>太郎<rt>たろう</rt></ruby>様がお<ruby>帰<rt>かえ</rt></ruby>りになるのは<ruby>寂<rt>さび</rt></ruby>しいですが、お<ruby>母<rt>かあ</rt></ruby>さまを大切に思うその気<ruby>持<rt>も</rt></ruby>ちは<ruby>立派<rt>りっぱ</rt></ruby>です。」<ruby>乙姫様<rt>おとひめさま</rt></ruby>はそう言うと、<ruby>美<rt>うつく</rt></ruby>しい<ruby>小<rt>ちい</rt></ruby>さな<ruby>箱<rt>はこ</rt></ruby>を<ruby>太郎<rt>たろう</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>しました。「これは<ruby>玉手箱<rt>たまてばこ</rt></ruby>です。<ruby>太郎<rt>たろう</rt></ruby>様をお<ruby>守<rt>まも</rt></ruby>りする大切な<ruby>箱<rt>はこ</rt></ruby>です。しかし、一つだけ<ruby>約束<rt>やくそく</rt></ruby>してください。<ruby>絶対<rt>ぜったい</rt></ruby>にこの<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてはなりません。」<ruby>太郎<rt>たろう</rt></ruby>は「わかりました。<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>開<rt>あ</rt></ruby>けません」と<ruby>約束<rt>やくそく</rt></ruby>しました。
-
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>玉手箱<rt>たまてばこ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>抱<rt>かか</rt></ruby>え、<ruby>亀<rt>かめ</rt></ruby>の<ruby>背中<rt>せなか</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>海<rt>うみ</rt></ruby>の上へと<ruby>戻<rt>もど</rt></ruby>りました。<ruby>乙姫様<rt>おとひめさま</rt></ruby>は最後まで手を<ruby>振<rt>ふ</rt></ruby>って<ruby>太郎<rt>たろう</rt></ruby>を見<ruby>送<rt>おく</rt></ruby>っていました。
+　<ruby>乙姫様<rt>おとひめさま</rt></ruby>は<ruby>悲<rt>かな</rt></ruby>しそうな<ruby>顔<rt>かお</rt></ruby>をしましたが、<ruby>太郎<rt>たろう</rt></ruby>の気<ruby>持<rt>も</rt></ruby>ちを<ruby>理解<rt>りかい</rt></ruby>してくれました。そして、<ruby>美<rt>うつく</rt></ruby>しい<ruby>小<rt>ちい</rt></ruby>さな<ruby>箱<rt>はこ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>しました。「これは<ruby>玉手箱<rt>たまてばこ</rt></ruby>です。<ruby>太郎<rt>たろう</rt></ruby>様をお<ruby>守<rt>まも</rt></ruby>りする大切な<ruby>箱<rt>はこ</rt></ruby>ですが、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>開<rt>あ</rt></ruby>けてはなりません。」<ruby>太郎<rt>たろう</rt></ruby>は「<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>開<rt>あ</rt></ruby>けません」と<ruby>約束<rt>やくそく</rt></ruby>し、<ruby>亀<rt>かめ</rt></ruby>の<ruby>背中<rt>せなか</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>海<rt>うみ</rt></ruby>の上へ<ruby>戻<rt>もど</rt></ruby>りました。
 
 #### 五、<ruby>変<rt>か</rt></ruby>わり<ruby>果<rt>は</rt></ruby>てた<ruby>故郷<rt>こきょう</rt></ruby>
 
-　<ruby>海<rt>うみ</rt></ruby>から上がった<ruby>太郎<rt>たろう</rt></ruby>は、<ruby>懐かしい<rt>なつかしい</rt></ruby><ruby>村<rt>むら</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>歩<rt>ある</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めました。しかし、<ruby>歩<rt>ある</rt></ruby>けば<ruby>歩<rt>ある</rt></ruby>くほど、何かがおかしいと<ruby>感<rt>かん</rt></ruby>じました。見たことのない<ruby>建物<rt>たてもの</rt></ruby>が<ruby>並<rt>なら</rt></ruby>び、知らない人ばかりが<ruby>歩<rt>ある</rt></ruby>いています。<ruby>太郎<rt>たろう</rt></ruby>が<ruby>知<rt>し</rt></ruby>っていた<ruby>村<rt>むら</rt></ruby>の<ruby>風景<rt>ふうけい</rt></ruby>は、まったく<ruby>変<rt>か</rt></ruby>わってしまっていました。
-
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>不安<rt>ふあん</rt></ruby>になり、<ruby>通<rt>とお</rt></ruby>りかかった人に<ruby>尋<rt>たず</rt></ruby>ねました。「<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>の家はどこでしょうか。」すると、その人は<ruby>首<rt>くび</rt></ruby>をかしげて「<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>？ああ、その名前なら<ruby>聞<rt>き</rt></ruby>いたことがあります。たしか、<ruby>何百年<rt>なんびゃくねん</rt></ruby>も前に<ruby>海<rt>うみ</rt></ruby>に出たまま<ruby>帰<rt>かえ</rt></ruby>ってこなかった<ruby>漁師<rt>りょうし</rt></ruby>がいたという<ruby>言<rt>い</rt></ruby>い<ruby>伝<rt>つた</rt></ruby>えがありますが…」と<ruby>答<rt>こた</rt></ruby>えました。
-
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>愕然<rt>がくぜん</rt></ruby>としました。<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごしたのはほんの<ruby>数日<rt>すうじつ</rt></ruby>だと思っていたのに、<ruby>実際<rt>じっさい</rt></ruby>には<ruby>何百年<rt>なんびゃくねん</rt></ruby>もの時間が<ruby>経<rt>た</rt></ruby>っていたのです。お<ruby>母<rt>かあ</rt></ruby>さんも、友だちも、知っている人は<ruby>誰<rt>だれ</rt></ruby>もいません。<ruby>太郎<rt>たろう</rt></ruby>の目から<ruby>涙<rt>なみだ</rt></ruby>がこぼれました。あの<ruby>懐かしい<rt>なつかしい</rt></ruby>日々は、もう二度と<ruby>取り戻す<rt>とりもどす</rt></ruby>ことはできないのです。
+　しかし、<ruby>村<rt>むら</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>太郎<rt>たろう</rt></ruby>は<ruby>愕然<rt>がくぜん</rt></ruby>としました。見たことのない<ruby>建物<rt>たてもの</rt></ruby>が<ruby>並<rt>なら</rt></ruby>び、知っている人は<ruby>誰<rt>だれ</rt></ruby>もいません。<ruby>通<rt>とお</rt></ruby>りかかった人に<ruby>聞<rt>き</rt></ruby>くと、「<ruby>浦島太郎<rt>うらしまたろう</rt></ruby>？<ruby>何百年<rt>なんびゃくねん</rt></ruby>も前に<ruby>海<rt>うみ</rt></ruby>に出たまま<ruby>帰<rt>かえ</rt></ruby>ってこなかった<ruby>漁師<rt>りょうし</rt></ruby>の<ruby>言<rt>い</rt></ruby>い<ruby>伝<rt>つた</rt></ruby>えなら<ruby>知<rt>し</rt></ruby>っていますが…」と言われました。<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>でほんの<ruby>数日<rt>すうじつ</rt></ruby>だと思っていたのに、<ruby>実際<rt>じっさい</rt></ruby>には<ruby>何百年<rt>なんびゃくねん</rt></ruby>もの時間が<ruby>経<rt>た</rt></ruby>っていたのです。お<ruby>母<rt>かあ</rt></ruby>さんも友だちも、もういません。あの<ruby>懐かしい<rt>なつかしい</rt></ruby>日々は二度と<ruby>取り戻せない<rt>とりもどせない</rt></ruby>のです。
 
 #### 六、<ruby>開<rt>あ</rt></ruby>けてしまった<ruby>玉手箱<rt>たまてばこ</rt></ruby>
 
-　<ruby>悲<rt>かな</rt></ruby>しみに<ruby>暮<rt>く</rt></ruby>れた<ruby>太郎<rt>たろう</rt></ruby>は、<ruby>浜辺<rt>はまべ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みました。ふと手元を見ると、<ruby>乙姫様<rt>おとひめさま</rt></ruby>からもらった<ruby>玉手箱<rt>たまてばこ</rt></ruby>がありました。「<ruby>開<rt>あ</rt></ruby>けてはいけない」と<ruby>約束<rt>やくそく</rt></ruby>したことは<ruby>覚<rt>おぼ</rt></ruby>えていました。しかし、すべてを<ruby>失<rt>うしな</rt></ruby>った<ruby>太郎<rt>たろう</rt></ruby>は、もしかしたらこの<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>ければ何かが<ruby>変<rt>か</rt></ruby>わるかもしれないと思いました。<ruby>失<rt>うしな</rt></ruby>った時間を<ruby>取り戻せる<rt>とりもどせる</rt></ruby>かもしれない。そんな<ruby>淡<rt>あわ</rt></ruby>い<ruby>期待<rt>きたい</rt></ruby>を<ruby>抱<rt>いだ</rt></ruby>いて、<ruby>太郎<rt>たろう</rt></ruby>は<ruby>玉手箱<rt>たまてばこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてしまいました。
+　すべてを<ruby>失<rt>うしな</rt></ruby>った<ruby>太郎<rt>たろう</rt></ruby>は、<ruby>浜辺<rt>はまべ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みました。ふと手元の<ruby>玉手箱<rt>たまてばこ</rt></ruby>を見て、「<ruby>開<rt>あ</rt></ruby>ければ何かが<ruby>変<rt>か</rt></ruby>わるかもしれない。<ruby>失<rt>うしな</rt></ruby>った時間を<ruby>取り戻せる<rt>とりもどせる</rt></ruby>かもしれない」と思い、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてしまいました。
 
-　すると、<ruby>箱<rt>はこ</rt></ruby>の中から<ruby>白<rt>しろ</rt></ruby>い<ruby>煙<rt>けむり</rt></ruby>がもくもくと<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>のぼ</rt></ruby>りました。<ruby>煙<rt>けむり</rt></ruby>が<ruby>太郎<rt>たろう</rt></ruby>を<ruby>包<rt>つつ</rt></ruby>むと、<ruby>太郎<rt>たろう</rt></ruby>の<ruby>黒<rt>くろ</rt></ruby>い<ruby>髪<rt>かみ</rt></ruby>はたちまち<ruby>白<rt>しろ</rt></ruby>くなり、<ruby>若<rt>わか</rt></ruby>い<ruby>肌<rt>はだ</rt></ruby>にはしわが<ruby>刻<rt>きざ</rt></ruby>まれ、<ruby>背中<rt>せなか</rt></ruby>は<ruby>曲<rt>ま</rt></ruby>がり、<ruby>太郎<rt>たろう</rt></ruby>はあっという間におじいさんになってしまいました。<ruby>玉手箱<rt>たまてばこ</rt></ruby>の中には、<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>にいる間に<ruby>過<rt>す</rt></ruby>ぎた<ruby>何百年<rt>なんびゃくねん</rt></ruby>もの「時間」が<ruby>閉<rt>と</rt></ruby>じ<ruby>込<rt>こ</rt></ruby>められていたのです。
+　すると、<ruby>箱<rt>はこ</rt></ruby>の中から<ruby>白<rt>しろ</rt></ruby>い<ruby>煙<rt>けむり</rt></ruby>がもくもくと<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>のぼ</rt></ruby>りました。<ruby>煙<rt>けむり</rt></ruby>が<ruby>太郎<rt>たろう</rt></ruby>を<ruby>包<rt>つつ</rt></ruby>むと、<ruby>黒<rt>くろ</rt></ruby>い<ruby>髪<rt>かみ</rt></ruby>はたちまち<ruby>白<rt>しろ</rt></ruby>くなり、<ruby>若<rt>わか</rt></ruby>い<ruby>肌<rt>はだ</rt></ruby>にはしわが<ruby>刻<rt>きざ</rt></ruby>まれ、<ruby>太郎<rt>たろう</rt></ruby>はあっという間におじいさんになってしまいました。<ruby>玉手箱<rt>たまてばこ</rt></ruby>の中には、<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>にいる間に<ruby>過<rt>す</rt></ruby>ぎた<ruby>何百年<rt>なんびゃくねん</rt></ruby>もの「時間」が<ruby>閉<rt>と</rt></ruby>じ<ruby>込<rt>こ</rt></ruby>められていたのです。
 
-　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>白<rt>しろ</rt></ruby>い<ruby>髪<rt>かみ</rt></ruby>を<ruby>風<rt>かぜ</rt></ruby>になびかせながら、<ruby>静<rt>しず</rt></ruby>かに<ruby>海<rt>うみ</rt></ruby>を見つめました。<ruby>楽<rt>たの</rt></ruby>しかった<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>の日々、<ruby>優<rt>やさ</rt></ruby>しかった<ruby>乙姫様<rt>おとひめさま</rt></ruby>、そしてもう会えないお<ruby>母<rt>かあ</rt></ruby>さんのことを思い出しながら、<ruby>太郎<rt>たろう</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かに<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>しました。<ruby>過<rt>す</rt></ruby>ぎた時間は、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>取り戻す<rt>とりもどす</rt></ruby>ことはできないのです。
+　<ruby>太郎<rt>たろう</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かに<ruby>海<rt>うみ</rt></ruby>を見つめました。<ruby>過<rt>す</rt></ruby>ぎた時間は、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>取り戻す<rt>とりもどす</rt></ruby>ことはできないのです。
 
 ---
 
@@ -107,19 +91,17 @@
 
 本文の<ruby>内容<rt>ないよう</rt></ruby>について<ruby>答<rt>こた</rt></ruby>えてください。
 
-**Q1.** <ruby>浦島太郎<rt>うらしまたろう</rt></ruby>はどんな人でしたか。どうやって<ruby>暮<rt>く</rt></ruby>らしていましたか。
+**Q1.** <ruby>浦島太郎<rt>うらしまたろう</rt></ruby>はどんな人でしたか。
 
-**Q2.** <ruby>太郎<rt>たろう</rt></ruby>は<ruby>浜辺<rt>はまべ</rt></ruby>で何を見つけましたか。そのとき、どうしましたか。
+**Q2.** <ruby>太郎<rt>たろう</rt></ruby>は<ruby>浜辺<rt>はまべ</rt></ruby>で何を見つけて、どうしましたか。
 
 **Q3.** <ruby>亀<rt>かめ</rt></ruby>が<ruby>太郎<rt>たろう</rt></ruby>を<ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>に<ruby>招待<rt>しょうたい</rt></ruby>した<ruby>理由<rt>りゆう</rt></ruby>は何ですか。
 
 **Q4.** <ruby>竜宮城<rt>りゅうぐうじょう</rt></ruby>にはどんな<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>部屋<rt>へや</rt></ruby>がありましたか。
 
-**Q5.** <ruby>太郎<rt>たろう</rt></ruby>はなぜ<ruby>村<rt>むら</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ろうと<ruby>決<rt>き</rt></ruby>めましたか。
+**Q5.** <ruby>太郎<rt>たろう</rt></ruby>が<ruby>村<rt>むら</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ると、何が<ruby>変<rt>か</rt></ruby>わっていましたか。なぜですか。
 
-**Q6.** <ruby>太郎<rt>たろう</rt></ruby>が<ruby>村<rt>むら</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ると、何が<ruby>変<rt>か</rt></ruby>わっていましたか。なぜですか。
-
-**Q7.** <ruby>玉手箱<rt>たまてばこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたら、<ruby>太郎<rt>たろう</rt></ruby>はどうなりましたか。
+**Q6.** <ruby>玉手箱<rt>たまてばこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたら、<ruby>太郎<rt>たろう</rt></ruby>はどうなりましたか。
 
 ---
 
