@@ -95,12 +95,6 @@ const config: Config = {
         },
       ],
     },
-    docs: {
-      sidebar: {
-        hideable: true, // 왼쪽 사이드바 접기 버튼 활성화
-        autoCollapseCategories: true, // 다른 카테고리 클릭 시 기존 것 접기 (선택사항)
-      },
-    },
     footer: {
       style: 'dark',
       links: [
