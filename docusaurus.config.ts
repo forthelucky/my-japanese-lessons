@@ -87,12 +87,19 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
+       {
+        type: 'docSidebar',
+        sidebarId: 'japaneseSidebar', // sidebars.js에서 지은 이름과 동일해야 함
+        position: 'left',
+        label: 'Japanese',            // 화면에 보여질 이름
+      },
+      // 2. 새로운 English 카테고리 추가
+      {
+        type: 'docSidebar',
+        sidebarId: 'englishSidebar',  // sidebars.js에서 지은 이름과 동일해야 함
+        position: 'left',
+        label: 'English',
+      },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
