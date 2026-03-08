@@ -1,4 +1,4 @@
-# 🎌 日本<ruby>漫画<rt>まんが</rt></ruby> 第6章
+# 🎌 新世紀エヴァンゲリオン
 
 ## <ruby>世紀末<rt>せいきまつ</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>と<ruby>哲学<rt>てつがく</rt></ruby>、『<ruby>新世紀<rt>しんせいき</rt></ruby>エヴァンゲリオン』
 

@@ -1,4 +1,4 @@
-# 🎌 日本<ruby>漫画<rt>まんが</rt></ruby> 第4章
+# 🎌 となりのトトロ
 
 ## スタジオジブリの<ruby>美学<rt>びがく</rt></ruby>、『となりのトトロ』と『<ruby>千<rt>せん</rt></ruby>と<ruby>千尋<rt>ちひろ</rt></ruby>の<ruby>神隠<rt>かみかく</rt></ruby>し』
 

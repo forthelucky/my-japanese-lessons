@@ -1,4 +1,4 @@
-# 🎌 日本<ruby>漫画<rt>まんが</rt></ruby> 第5章
+# 🎌 スラムダンク
 
 ## <ruby>社会現象<rt>しゃかいげんしょう</rt></ruby>になった<ruby>バスケ<rt></rt></ruby><ruby>漫画<rt>まんが</rt></ruby>、『スラムダンク』
 

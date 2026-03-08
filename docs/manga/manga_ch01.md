@@ -1,4 +1,4 @@
-# 🎌 日本<ruby>漫画<rt>まんが</rt></ruby> 第1章
+# 🎌 鉄腕アトム
 
 ## 日本<ruby>漫画<rt>まんが</rt></ruby>の神、<ruby>手塚治虫<rt>てづかおさむ</rt></ruby>と『<ruby>鉄腕<rt>てつわん</rt></ruby>アトム』
 

@@ -1,4 +1,4 @@
-# 🎌 日本<ruby>漫画<rt>まんが</rt></ruby> 第7章
+# 🎌 鬼滅の刃
 
 ## 21<ruby>世紀<rt>せいき</rt></ruby><ruby>最大<rt>さいだい</rt></ruby>のヒット<ruby>作<rt>さく</rt></ruby>、『<ruby>鬼滅<rt>きめつ</rt></ruby>の<ruby>刃<rt>やいば</rt></ruby>』
 
