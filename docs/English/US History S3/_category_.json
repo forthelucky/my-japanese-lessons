@@ -1,8 +1,7 @@
 {
-  "label": "日本文学",
-  "position": 7,
+  "label": "US History S3",
+  "position": 4,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "generated-index"
   }
 }
