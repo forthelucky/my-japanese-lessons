@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
 
-![Albert Speer](/img/wwii/speer.jpg)
+![Albert Speer](pathname:///img/wwii/speer.jpg)
 
 
 ---

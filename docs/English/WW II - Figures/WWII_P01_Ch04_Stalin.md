@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Joseph Stalin](/img/wwii/stalin.jpg)
+![Joseph Stalin](pathname:///img/wwii/stalin.jpg)
 
 
 ---

@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Erwin Rommel](/img/wwii/rommel.jpg)
+![Erwin Rommel](pathname:///img/wwii/rommel.jpg)
 
 
 ---

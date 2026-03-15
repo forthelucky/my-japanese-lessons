@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Franklin D. Roosevelt](/img/wwii/fdr.jpg)
+![Franklin D. Roosevelt](pathname:///img/wwii/fdr.jpg)
 
 
 ---

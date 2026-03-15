@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Isoroku Yamamoto](/img/wwii/yamamoto.jpg)
+![Isoroku Yamamoto](pathname:///img/wwii/yamamoto.jpg)
 
 
 ---

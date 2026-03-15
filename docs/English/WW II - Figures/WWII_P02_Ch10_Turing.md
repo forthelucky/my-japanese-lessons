@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Alan Turing](/img/wwii/turing.jpg)
+![Alan Turing](pathname:///img/wwii/turing.jpg)
 
 
 ---

@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
 
-![Douglas MacArthur](/img/wwii/macarthur.jpg)
+![Douglas MacArthur](pathname:///img/wwii/macarthur.jpg)
 
 
 ---

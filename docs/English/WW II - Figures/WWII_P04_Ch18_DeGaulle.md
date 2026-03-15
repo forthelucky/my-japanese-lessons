@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
 
-![Charles de Gaulle](/img/wwii/degaulle.jpg)
+![Charles de Gaulle](pathname:///img/wwii/degaulle.jpg)
 
 
 ---

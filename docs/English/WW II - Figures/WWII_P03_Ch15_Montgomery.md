@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
 
-![Bernard Montgomery](/img/wwii/montgomery.jpg)
+![Bernard Montgomery](pathname:///img/wwii/montgomery.jpg)
 
 
 ---

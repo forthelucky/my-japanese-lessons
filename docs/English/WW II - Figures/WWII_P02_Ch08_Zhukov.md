@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Georgy Zhukov](/img/wwii/zhukov.jpg)
+![Georgy Zhukov](pathname:///img/wwii/zhukov.jpg)
 
 
 ---

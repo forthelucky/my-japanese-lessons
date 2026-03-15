@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
 
-![Dwight D. Eisenhower](/img/wwii/eisenhower.jpg)
+![Dwight D. Eisenhower](pathname:///img/wwii/eisenhower.jpg)
 
 
 ---

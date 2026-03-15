@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Heinz Guderian](/img/wwii/guderian.jpg)
+![Heinz Guderian](pathname:///img/wwii/guderian.jpg)
 
 
 ---

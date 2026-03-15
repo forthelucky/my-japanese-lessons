@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Adolf Hitler](/img/wwii/hitler.jpg)
+![Adolf Hitler](pathname:///img/wwii/hitler.jpg)
 
 
 ---

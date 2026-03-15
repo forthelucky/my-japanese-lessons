@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Hideki Tojo](/img/wwii/tojo.jpg)
+![Hideki Tojo](pathname:///img/wwii/tojo.jpg)
 
 
 ---

@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
 
-![George S. Patton](/img/wwii/patton.jpg)
+![George S. Patton](pathname:///img/wwii/patton.jpg)
 
 
 ---

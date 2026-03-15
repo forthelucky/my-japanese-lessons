@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
 
-![J. Robert Oppenheimer](/img/wwii/oppenheimer.jpg)
+![J. Robert Oppenheimer](pathname:///img/wwii/oppenheimer.jpg)
 
 
 ---

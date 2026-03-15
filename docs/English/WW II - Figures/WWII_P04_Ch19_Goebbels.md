@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
 
-![Joseph Goebbels](/img/wwii/goebbels.jpg)
+![Joseph Goebbels](pathname:///img/wwii/goebbels.jpg)
 
 
 ---
