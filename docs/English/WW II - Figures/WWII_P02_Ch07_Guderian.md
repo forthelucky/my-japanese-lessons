@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Heinz Guderian — Bundesarchiv (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bundesarchiv_Bild_101I-139-1112-17%2C_Heinz_Guderian.jpg/220px-Bundesarchiv_Bild_101I-139-1112-17%2C_Heinz_Guderian.jpg)
+![Heinz Guderian](/img/wwii/guderian.jpg)
 
 
 ---

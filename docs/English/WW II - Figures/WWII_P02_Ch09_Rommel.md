@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Erwin Rommel — Bundesarchiv (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bundesarchiv_Bild_146-1985-013-07%2C_Erwin_Rommel_retouched.jpg/220px-Bundesarchiv_Bild_146-1985-013-07%2C_Erwin_Rommel_retouched.jpg)
+![Erwin Rommel](/img/wwii/rommel.jpg)
 
 
 ---

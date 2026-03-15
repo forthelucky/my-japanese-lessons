@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Franklin D. Roosevelt — U.S. Government (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/220px-FDR_1944_Color_Portrait.jpg)
+![Franklin D. Roosevelt](/img/wwii/fdr.jpg)
 
 
 ---

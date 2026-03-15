@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Adolf Hitler — Bundesarchiv (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Adolf_Hitler_with_military_generals%2C_1935_Recrop.jpg/220px-Adolf_Hitler_with_military_generals%2C_1935_Recrop.jpg)
+![Adolf Hitler](/img/wwii/hitler.jpg)
 
 
 ---

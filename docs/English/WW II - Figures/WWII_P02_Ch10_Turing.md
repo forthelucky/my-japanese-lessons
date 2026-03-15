@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
 
-![Alan Turing — Public Domain](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/220px-Alan_Turing_Aged_16.jpg)
+![Alan Turing](/img/wwii/turing.jpg)
 
 
 ---

@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Winston Churchill — © Yousuf Karsh / Library of Congress (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/220px-Sir_Winston_S_Churchill.jpg)
+![Winston Churchill](/img/wwii/churchill.jpg)
 
 
 ---

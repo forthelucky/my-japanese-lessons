@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
 
-![Hideki Tojo — U.S. Army (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hideki_Tojo_2_%283x4_cropped%29.jpg/220px-Hideki_Tojo_2_%283x4_cropped%29.jpg)
+![Hideki Tojo](/img/wwii/tojo.jpg)
 
 
 ---

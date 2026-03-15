@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
 
-![Heinrich Himmler — Bundesarchiv (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Heinrich_Himmler_1938.jpg/220px-Heinrich_Himmler_1938.jpg)
+![Heinrich Himmler](/img/wwii/himmler.jpg)
 
 
 ---

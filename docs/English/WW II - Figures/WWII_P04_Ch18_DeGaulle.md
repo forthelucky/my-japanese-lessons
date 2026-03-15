@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
 
-![Charles de Gaulle — French Government (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Charles_de_Gaulle_in_1942.jpg/220px-Charles_de_Gaulle_in_1942.jpg)
+![Charles de Gaulle](/img/wwii/degaulle.jpg)
 
 
 ---

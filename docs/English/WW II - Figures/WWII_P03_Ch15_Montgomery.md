@@ -3,7 +3,7 @@
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
 
-![Bernard Montgomery — Imperial War Museum (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BernardLawMontgomery.jpg/220px-BernardLawMontgomery.jpg)
+![Bernard Montgomery](/img/wwii/montgomery.jpg)
 
 
 ---
