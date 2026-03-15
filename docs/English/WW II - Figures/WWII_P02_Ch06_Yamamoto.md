@@ -2,7 +2,9 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yamamoto_Isoroku.jpg/300px-Yamamoto_Isoroku.jpg" alt="Isoroku Yamamoto — Imperial Japanese Navy (Public Domain)" width="220" style={{float:"right",margin:"0 0 12px 20px",border:"1px solid #ccc"}} />
+
+![Isoroku Yamamoto — Imperial Japanese Navy (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yamamoto_Isoroku.jpg/220px-Yamamoto_Isoroku.jpg)
+
 
 ---
 

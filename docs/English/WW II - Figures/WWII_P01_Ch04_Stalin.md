@@ -2,7 +2,9 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stalin_Full_Image.jpg/300px-Stalin_Full_Image.jpg" alt="Joseph Stalin — Soviet Government (Public Domain)" width="220" style={{float:"right",margin:"0 0 12px 20px",border:"1px solid #ccc"}} />
+
+![Joseph Stalin — Soviet Government (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stalin_Full_Image.jpg/220px-Stalin_Full_Image.jpg)
+
 
 ---
 

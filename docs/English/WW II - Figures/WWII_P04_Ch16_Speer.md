@@ -2,7 +2,9 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Albert_Speer.jpg/300px-Albert_Speer.jpg" alt="Albert Speer — Bundesarchiv (Public Domain)" width="220" style={{float:"right",margin:"0 0 12px 20px",border:"1px solid #ccc"}} />
+
+![Albert Speer — Bundesarchiv (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Albert_Speer.jpg/220px-Albert_Speer.jpg)
+
 
 ---
 

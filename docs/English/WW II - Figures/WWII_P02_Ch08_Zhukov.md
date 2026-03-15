@@ -2,7 +2,9 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 2 of 4: The Strategists & Innovators
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Georgy_Zhukov_1941.jpg/300px-Georgy_Zhukov_1941.jpg" alt="Georgy Zhukov — Soviet Government (Public Domain)" width="220" style={{float:"right",margin:"0 0 12px 20px",border:"1px solid #ccc"}} />
+
+![Georgy Zhukov — Soviet Government (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Georgy_Zhukov_1941.jpg/220px-Georgy_Zhukov_1941.jpg)
+
 
 ---
 

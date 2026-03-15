@@ -2,7 +2,9 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 4 of 4: The System Builders & Breakers
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/J._Robert_Oppenheimer.jpg/300px-J._Robert_Oppenheimer.jpg" alt="J. Robert Oppenheimer — U.S. Department of Energy (Public Domain)" width="220" style={{float:"right",margin:"0 0 12px 20px",border:"1px solid #ccc"}} />
+
+![J. Robert Oppenheimer — U.S. Department of Energy (Public Domain)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/JROppenheimer-LosAlamos.jpg/220px-JROppenheimer-LosAlamos.jpg)
+
 
 ---
 
