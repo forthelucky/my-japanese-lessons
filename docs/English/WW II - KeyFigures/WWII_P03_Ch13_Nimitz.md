@@ -2,7 +2,6 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chester_Nimitz.jpg/300px-Chester_Nimitz.jpg" alt="Chester Nimitz — U.S. Navy (Public Domain)" width="220" style="float:right;margin:0 0 12px 20px;border:1px solid #ccc;" />
 
 ---
 

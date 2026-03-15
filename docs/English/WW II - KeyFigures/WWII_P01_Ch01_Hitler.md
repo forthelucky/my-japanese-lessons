@@ -2,7 +2,7 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 1 of 4: The Architects & Leaders
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Adolf_Hitler_Foto.jpg/300px-Adolf_Hitler_Foto.jpg" alt="Adolf Hitler — Bundesarchiv (Public Domain)" width="220" style="float:right;margin:0 0 12px 20px;border:1px solid #ccc;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Adolf_Hitler_Foto.jpg/300px-Adolf_Hitler_Foto.jpg" alt="Adolf Hitler — Bundesarchiv (Public Domain)" width="220" style={{ float: 'right', margin: '0 0 12px 20px', border: '1px solid #ccc' }} />
 
 ---
 

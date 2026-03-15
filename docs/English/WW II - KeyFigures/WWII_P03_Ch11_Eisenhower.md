@@ -2,7 +2,6 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/300px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg" alt="Dwight D. Eisenhower — U.S. Government (Public Domain)" width="220" style="float:right;margin:0 0 12px 20px;border:1px solid #ccc;" />
 
 ---
 

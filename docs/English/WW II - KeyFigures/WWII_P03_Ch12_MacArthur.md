@@ -2,7 +2,7 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Douglas_MacArthur_quotes.jpg/300px-Douglas_MacArthur_quotes.jpg" alt="Douglas MacArthur — U.S. Army (Public Domain)" width="220" style="float:right;margin:0 0 12px 20px;border:1px solid #ccc;" />
+
 
 ---
 

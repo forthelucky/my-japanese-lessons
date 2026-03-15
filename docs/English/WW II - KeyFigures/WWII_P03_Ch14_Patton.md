@@ -2,7 +2,7 @@
 
 > **Level: C1** | Series: The Human Face of World War II · Part 3 of 4: The Managers & Executors
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/George_S._Patton.jpg/300px-George_S._Patton.jpg" alt="George S. Patton — U.S. Army (Public Domain)" width="220" style="float:right;margin:0 0 12px 20px;border:1px solid #ccc;" />
+
 
 ---
 
