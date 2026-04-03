@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# ⚔️ <ruby>人質<rt>ひとじち</rt></ruby><ruby>家康<rt>いえやす</rt></ruby>、<ruby>生存<rt>せいぞん</rt></ruby>と<ruby>独立<rt>どくりつ</rt></ruby>
+# ⚔️ 生存と独立
 
 ## <ruby>人質<rt>ひとじち</rt></ruby><ruby>家康<rt>いえやす</rt></ruby>、<ruby>生存<rt>せいぞん</rt></ruby>と<ruby>独立<rt>どくりつ</rt></ruby>
 

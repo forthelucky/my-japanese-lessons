@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# ⚔️ <ruby>長篠<rt>ながしの</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
+# ⚔️ 長篠の戦
 
 ## <ruby>長篠<rt>ながしの</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 

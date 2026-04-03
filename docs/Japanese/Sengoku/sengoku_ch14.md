@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# ⚔️ <ruby>室町幕府<rt>むろまちばくふ</rt></ruby><ruby>滅亡<rt>めつぼう</rt></ruby>
+# ⚔️ 室町幕府滅亡
 
 ## <ruby>室町幕府<rt>むろまちばくふ</rt></ruby><ruby>滅亡<rt>めつぼう</rt></ruby>
 

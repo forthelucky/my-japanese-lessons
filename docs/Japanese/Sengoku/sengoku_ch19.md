@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# ⚔️ <ruby>江戸幕府<rt>えどばくふ</rt></ruby><ruby>開府<rt>かいふ</rt></ruby>
+# ⚔️ 江戸幕府開府
 
 ## <ruby>江戸幕府<rt>えどばくふ</rt></ruby><ruby>開府<rt>かいふ</rt></ruby>
 

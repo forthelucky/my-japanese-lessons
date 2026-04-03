@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# ⚔️ <ruby>本能寺<rt>ほんのうじ</rt></ruby>の<ruby>変<rt>へん</rt></ruby>
+# ⚔️ 本能寺の変
 
 ## <ruby>本能寺<rt>ほんのうじ</rt></ruby>の<ruby>変<rt>へん</rt></ruby>
 

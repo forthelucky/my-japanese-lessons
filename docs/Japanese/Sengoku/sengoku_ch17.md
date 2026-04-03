@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# ⚔️ <ruby>天下人<rt>てんかびと</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby>
+# ⚔️ 天下人秀吉
 
 ## <ruby>天下人<rt>てんかびと</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby>
 

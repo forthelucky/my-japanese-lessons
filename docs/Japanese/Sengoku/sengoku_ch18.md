@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# ⚔️ <ruby>関ヶ原<rt>せきがはら</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
+# ⚔️ 関ヶ原の戦
 
 ## <ruby>関ヶ原<rt>せきがはら</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 

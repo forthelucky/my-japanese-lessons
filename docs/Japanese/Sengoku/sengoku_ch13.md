@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ⚔️ <ruby>桶狭間<rt>おけはざま</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
+# ⚔️ 桶狭間の戦
 
 ## <ruby>桶狭間<rt>おけはざま</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 
