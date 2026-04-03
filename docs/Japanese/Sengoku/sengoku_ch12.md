@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第２<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>太閤立志伝<rt>たいこうりっしでん</rt></ruby>：<ruby>秀吉<rt>ひでよし</rt></ruby>の<ruby>出世<rt>しゅっせ</rt></ruby>
 
 ## <ruby>太閤立志伝<rt>たいこうりっしでん</rt></ruby>：<ruby>秀吉<rt>ひでよし</rt></ruby>の<ruby>出世<rt>しゅっせ</rt></ruby>
 

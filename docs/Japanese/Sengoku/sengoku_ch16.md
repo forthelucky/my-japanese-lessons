@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第６<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>本能寺<rt>ほんのうじ</rt></ruby>の<ruby>変<rt>へん</rt></ruby>
 
 ## <ruby>本能寺<rt>ほんのうじ</rt></ruby>の<ruby>変<rt>へん</rt></ruby>
 

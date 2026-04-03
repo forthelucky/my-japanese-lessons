@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第３<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>桶狭間<rt>おけはざま</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 
 ## <ruby>桶狭間<rt>おけはざま</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 

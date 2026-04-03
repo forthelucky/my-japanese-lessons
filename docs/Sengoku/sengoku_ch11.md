@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第１<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>人質<rt>ひとじち</rt></ruby><ruby>家康<rt>いえやす</rt></ruby>、<ruby>生存<rt>せいぞん</rt></ruby>と<ruby>独立<rt>どくりつ</rt></ruby>
 
 ## <ruby>人質<rt>ひとじち</rt></ruby><ruby>家康<rt>いえやす</rt></ruby>、<ruby>生存<rt>せいぞん</rt></ruby>と<ruby>独立<rt>どくりつ</rt></ruby>
 

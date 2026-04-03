@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第９<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>江戸幕府<rt>えどばくふ</rt></ruby><ruby>開府<rt>かいふ</rt></ruby>
 
 ## <ruby>江戸幕府<rt>えどばくふ</rt></ruby><ruby>開府<rt>かいふ</rt></ruby>
 

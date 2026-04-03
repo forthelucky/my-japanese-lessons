@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第10<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>大坂<rt>おおさか</rt></ruby>の<ruby>陣<rt>じん</rt></ruby>と<ruby>戦国時代<rt>せんごくじだい</rt></ruby>の<ruby>終焉<rt>しゅうえん</rt></ruby>
 
 ## <ruby>大坂<rt>おおさか</rt></ruby>の<ruby>陣<rt>じん</rt></ruby>と<ruby>戦国時代<rt>せんごくじだい</rt></ruby>の<ruby>終焉<rt>しゅうえん</rt></ruby>
 

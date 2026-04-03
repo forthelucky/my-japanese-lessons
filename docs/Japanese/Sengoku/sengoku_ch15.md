@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第５<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>長篠<rt>ながしの</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 
 ## <ruby>長篠<rt>ながしの</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 

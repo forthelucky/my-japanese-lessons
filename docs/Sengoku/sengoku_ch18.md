@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第８<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>関ヶ原<rt>せきがはら</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 
 ## <ruby>関ヶ原<rt>せきがはら</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い
 
@@ -119,7 +119,7 @@ sidebar_position: 8
 
 **1.** あなたの<ruby>国<rt>くに</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>に、<ruby>関ヶ原<rt>せきがはら</rt></ruby>のような「<ruby>天下分<rt>てんかわ</rt></ruby>け<ruby>目<rt>め</rt></ruby>の<ruby>戦<rt>たたかい</rt></ruby>い」はありましたか。
 
-**2.** <ruby>大<rt>おお</rt></ruby>きな<ruby>決断<rt>けつだん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に「<ruby>どちらの{r("味方","みかた")}につくか<rt>どちらの{r("味方","みかた")}につくか</rt></ruby>」で<ruby>悩<rt>なや</rt></ruby>んだ<ruby>経験<rt>けいけん</rt></ruby>はありますか。
+**2.** <ruby>大<rt>おお</rt></ruby>きな<ruby>決断<rt>けつだん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に「どちらの<ruby>味方<rt>みかた</rt></ruby>につくか」で<ruby>悩<rt>なや</rt></ruby>んだ<ruby>経験<rt>けいけん</rt></ruby>はありますか。
 
 **3.** 「<ruby>勝<rt>か</rt></ruby>ち<ruby>馬<rt>うま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る」という<ruby>行動<rt>こうどう</rt></ruby>をどう<ruby>評価<rt>ひょうか</rt></ruby>しますか。
 

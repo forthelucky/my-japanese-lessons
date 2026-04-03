@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第７<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>天下人<rt>てんかびと</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby>
 
 ## <ruby>天下人<rt>てんかびと</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby>
 

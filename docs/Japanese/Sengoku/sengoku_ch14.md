@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby> 第４<ruby>章<rt>しょう</rt></ruby>
+# ⚔️ <ruby>室町幕府<rt>むろまちばくふ</rt></ruby><ruby>滅亡<rt>めつぼう</rt></ruby>
 
 ## <ruby>室町幕府<rt>むろまちばくふ</rt></ruby><ruby>滅亡<rt>めつぼう</rt></ruby>
 
