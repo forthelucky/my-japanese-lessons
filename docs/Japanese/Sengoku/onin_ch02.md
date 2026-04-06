@@ -49,50 +49,20 @@ sidebar_position: 12
 
 ---
 
-## 👥 <ruby>戦況<rt>せんきょう</rt></ruby>と<ruby>崩壊<rt>ほうかい</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れ
+## 📊 <ruby>戦況<rt>せんきょう</rt></ruby>と<ruby>崩壊<rt>ほうかい</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れ
 
-:::info
-応仁の乱がどのように「目的を失った戦争」になっていったかを整理しましょう。
-:::
-
-```mermaid
-graph TD
-    Y1["1467年 - 応仁の乱 勃発 - 東軍 vs 西軍・全国の大名が京都に集結"]
-    Y2["1468〜1472年 - 戦争の泥沼化 - 京都の街が次々と焼失・貴族が地方へ避難"]
-    Y3["1473年 転換点 - 細川勝元・山名宗全が相次いで病死 - それでも戦争は続く"]
-    Y4["1474〜1476年 - 名分の完全喪失 - 足利義視が西軍に寝返る"]
-    Y5["1477年 - 応仁の乱 終結 - 勝者なし・京都は焼け野原"]
-    Y6["戦国時代へ - 下剋上が日常化"]
-
-    Y1 --> Y2
-    Y2 --> Y3
-    Y3 --> Y4
-    Y4 --> Y5
-    Y5 --> Y6
-
-    style Y1 fill:#fff3e0,stroke:#e65100
-    style Y2 fill:#fbe9e7,stroke:#bf360c
-    style Y3 fill:#ffccbc,stroke:#b71c1c,stroke-width:3px
-    style Y4 fill:#ffcdd2,stroke:#b71c1c
-    style Y5 fill:#ef9a9a,stroke:#b71c1c
-    style Y6 fill:#c62828,stroke:#7f0000,color:#fff
-```
+| <ruby>年代<rt>ねんだい</rt></ruby> | <ruby>出来事<rt>できごと</rt></ruby> |
+|------|------|
+| 1467<ruby>年<rt>ねん</rt></ruby> | <ruby>応仁<rt>おうにん</rt></ruby>の<ruby>乱<rt>らん</rt></ruby><ruby>勃発<rt>ぼっぱつ</rt></ruby>。<ruby>東軍<rt>とうぐん</rt></ruby>vs<ruby>西軍<rt>せいぐん</rt></ruby>、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>大名<rt>だいみょう</rt></ruby>が<ruby>京都<rt>きょうと</rt></ruby>に<ruby>集結<rt>しゅうけつ</rt></ruby> |
+| 1468〜1472<ruby>年<rt>ねん</rt></ruby> | <ruby>戦争<rt>せんそう</rt></ruby>の<ruby>泥沼化<rt>どろぬまか</rt></ruby>。<ruby>京都<rt>きょうと</rt></ruby>の<ruby>街<rt>まち</rt></ruby>が<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>焼失<rt>しょうしつ</rt></ruby>、<ruby>貴族<rt>きぞく</rt></ruby>が<ruby>地方<rt>ちほう</rt></ruby>へ<ruby>避難<rt>ひなん</rt></ruby> |
+| 1473<ruby>年<rt>ねん</rt></ruby>（<ruby>転換点<rt>てんかんてん</rt></ruby>） | <ruby>細川勝元<rt>ほそかわかつもと</rt></ruby>・<ruby>山名宗全<rt>やまなそうぜん</rt></ruby>が<ruby>相次<rt>あいつ</rt></ruby>いで<ruby>病死<rt>びょうし</rt></ruby>。それでも<ruby>戦争<rt>せんそう</rt></ruby>は<ruby>続<rt>つづ</rt></ruby>く |
+| 1474〜1476<ruby>年<rt>ねん</rt></ruby> | <ruby>名分<rt>めいぶん</rt></ruby>の<ruby>完全喪失<rt>かんぜんそうしつ</rt></ruby>。<ruby>足利義視<rt>あしかがよしみ</rt></ruby>が<ruby>西軍<rt>せいぐん</rt></ruby>に<ruby>寝返<rt>ねがえ</rt></ruby>る |
+| 1477<ruby>年<rt>ねん</rt></ruby> | <ruby>応仁<rt>おうにん</rt></ruby>の<ruby>乱<rt>らん</rt></ruby><ruby>終結<rt>しゅうけつ</rt></ruby>。<ruby>勝者<rt>しょうしゃ</rt></ruby>なし、<ruby>京都<rt>きょうと</rt></ruby>は<ruby>焼<rt>や</rt></ruby>け<ruby>野原<rt>のはら</rt></ruby>に |
+| <ruby>以降<rt>いこう</rt></ruby> | <ruby>下剋上<rt>げこくじょう</rt></ruby>が<ruby>日常化<rt>にちじょうか</rt></ruby>し、<ruby>戦国時代<rt>せんごくじだい</rt></ruby>へ |
 
 **🔑 <ruby>戦国時代<rt>せんごくじだい</rt></ruby>への<ruby>流<rt>なが</rt></ruby>れ**
 
-```mermaid
-graph LR
-    A["応仁の乱 1467〜1477"] --> B["幕府の権威崩壊"]
-    A --> C["大名が京都で消耗"]
-    B --> D["地方の秩序が崩壊"]
-    C --> E["家臣が領地を乗っ取る"]
-    D --> F["下剋上が日常化"]
-    E --> F
-    F --> G["戦国時代の幕開け"]
-
-    style A fill:#ffccbc,stroke:#e64a19
-    style G fill:#ff8a65,stroke:#bf360c,stroke-width:3px
-```
+<ruby>応仁<rt>おうにん</rt></ruby>の<ruby>乱<rt>らん</rt></ruby> → <ruby>幕府<rt>ばくふ</rt></ruby>の<ruby>権威崩壊<rt>けんいほうかい</rt></ruby> → <ruby>大名<rt>だいみょう</rt></ruby>が<ruby>領地<rt>りょうち</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>う → <ruby>下剋上<rt>げこくじょう</rt></ruby>が<ruby>日常化<rt>にちじょうか</rt></ruby> → ⚔️ <ruby>戦国時代<rt>せんごくじだい</rt></ruby>
 
 ---
 

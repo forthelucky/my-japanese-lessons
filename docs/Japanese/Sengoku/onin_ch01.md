@@ -51,48 +51,16 @@ sidebar_position: 11
 
 ## 👥 <ruby>登場人物<rt>とうじょうじんぶつ</rt></ruby>・<ruby>関係図<rt>かんけいず</rt></ruby>
 
-:::info
-以下の関係図で、主な登場人物とその関係を確認しましょう。
-:::
-
-```mermaid
-graph TD
-    A["足利義政 - 8代将軍 - 優柔不断"]
-    B["足利義視 - 義政の弟 - 後継者に指名"]
-    C["足利義尚 - 義政の息子 - 後から誕生"]
-    D["日野富子 - 義政の妻 - 義尚を支持"]
-    E["細川勝元 - 東軍の大将 - 管領"]
-    F["山名宗全 - 西軍の大将 - 赤入道"]
-    G["畠山政長 - 東軍・細川側"]
-    H["畠山義就 - 西軍・山名側"]
-
-    A -- "弟に後継を約束" --> B
-    A -- "息子誕生・約束を撤回" --> C
-    D -- "息子を強く支持" --> C
-    D -. "夫婦" .- A
-    E -- "義視を支持・東軍" --> B
-    F -- "義尚を支持・西軍" --> C
-    E <-- "権力争い・対立" --> F
-    G -- "東軍に属す" --> E
-    H -- "西軍に属す" --> F
-    G <-- "畠山家の家督争い" --> H
-
-    style A fill:#ffe0b2,stroke:#e65100
-    style B fill:#e3f2fd,stroke:#1565c0
-    style C fill:#e8f5e9,stroke:#2e7d32
-    style D fill:#fce4ec,stroke:#880e4f
-    style E fill:#e3f2fd,stroke:#1565c0,stroke-width:3px
-    style F fill:#ffebee,stroke:#b71c1c,stroke-width:3px
-    style G fill:#e3f2fd,stroke:#1565c0
-    style H fill:#ffebee,stroke:#b71c1c
-```
-
-**🔑 ポイント**
-
-| <ruby>人物<rt>じんぶつ</rt></ruby> | <ruby>立場<rt>たちば</rt></ruby> | <ruby>支持<rt>しじ</rt></ruby> |
-|------|------|------|
-| <ruby>細川勝元<rt>ほそかわかつもと</rt></ruby> | <ruby>東軍<rt>とうぐん</rt></ruby> | <ruby>足利義視<rt>あしかがよしみ</rt></ruby>（<ruby>弟<rt>おとうと</rt></ruby>） |
-| <ruby>山名宗全<rt>やまなそうぜん</rt></ruby> | <ruby>西軍<rt>せいぐん</rt></ruby> | <ruby>足利義尚<rt>あしかがよしひさ</rt></ruby>（<ruby>息子<rt>むすこ</rt></ruby>） |
+| <ruby>人物<rt>じんぶつ</rt></ruby> | <ruby>立場<rt>たちば</rt></ruby> | <ruby>支持<rt>しじ</rt></ruby> | <ruby>役割<rt>やくわり</rt></ruby> |
+|------|------|------|------|
+| <ruby>足利義政<rt>あしかがよしまさ</rt></ruby> | ８<ruby>代将軍<rt>だいしょうぐん</rt></ruby> | ― | <ruby>優柔不断<rt>ゆうじゅうふだん</rt></ruby>な<ruby>指導者<rt>しどうしゃ</rt></ruby> |
+| <ruby>足利義視<rt>あしかがよしみ</rt></ruby> | <ruby>義政<rt>よしまさ</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby> | <ruby>東軍<rt>とうぐん</rt></ruby> | <ruby>最初<rt>さいしょ</rt></ruby>の<ruby>後継者<rt>こうけいしゃ</rt></ruby>候補 |
+| <ruby>足利義尚<rt>あしかがよしひさ</rt></ruby> | <ruby>義政<rt>よしまさ</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby> | <ruby>西軍<rt>せいぐん</rt></ruby> | <ruby>後<rt>のち</rt></ruby>から<ruby>生<rt>う</rt></ruby>まれた<ruby>後継者<rt>こうけいしゃ</rt></ruby>候補 |
+| <ruby>日野富子<rt>ひのとみこ</rt></ruby> | <ruby>義政<rt>よしまさ</rt></ruby>の<ruby>妻<rt>つま</rt></ruby> | <ruby>西軍<rt>せいぐん</rt></ruby> | <ruby>息子<rt>むすこ</rt></ruby>・<ruby>義尚<rt>よしひさ</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>推<rt>お</rt></ruby>す |
+| <ruby>細川勝元<rt>ほそかわかつもと</rt></ruby> | <ruby>管領<rt>かんれい</rt></ruby> | <ruby>東軍<rt>とうぐん</rt></ruby>の<ruby>大将<rt>たいしょう</rt></ruby> | <ruby>義視<rt>よしみ</rt></ruby>を<ruby>支持<rt>しじ</rt></ruby> |
+| <ruby>山名宗全<rt>やまなそうぜん</rt></ruby> | 「<ruby>赤入道<rt>あかにゅうどう</rt></ruby>」 | <ruby>西軍<rt>せいぐん</rt></ruby>の<ruby>大将<rt>たいしょう</rt></ruby> | <ruby>義尚<rt>よしひさ</rt></ruby>を<ruby>支持<rt>しじ</rt></ruby> |
+| <ruby>畠山政長<rt>はたけやままさなが</rt></ruby> | <ruby>畠山家<rt>はたけやまけ</rt></ruby> | <ruby>東軍<rt>とうぐん</rt></ruby>・<ruby>細川<rt>ほそかわ</rt></ruby>側 | <ruby>家督<rt>かとく</rt></ruby>をめぐり<ruby>対立<rt>たいりつ</rt></ruby> |
+| <ruby>畠山義就<rt>はたけやまよしひろ</rt></ruby> | <ruby>畠山家<rt>はたけやまけ</rt></ruby> | <ruby>西軍<rt>せいぐん</rt></ruby>・<ruby>山名<rt>やまな</rt></ruby>側 | <ruby>家督<rt>かとく</rt></ruby>をめぐり<ruby>対立<rt>たいりつ</rt></ruby> |
 
 ---
 
